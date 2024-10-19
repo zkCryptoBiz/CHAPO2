@@ -658,7 +658,7 @@
                               (0, c.jsx)("div", {
                                 className: "cw",
                                 children:
-                                  "Token Holders CHAPO tokens holders can use these tokens to participate in project governance, voting, obtaining rewards",
+                                  "$CHAPO tokens holders can use them to participate in project governance, voting, obtaining rewards",
                               }),
                             ],
                           }),
